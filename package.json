@@ -1,0 +1,12 @@
+{
+  "name": "lit-remixicon",
+  "version": "1.0.0",
+  "description": "Remixicon SVG icons with wrapper for Lit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cengiz Gonen",
+  "license": "ISC"
+}
