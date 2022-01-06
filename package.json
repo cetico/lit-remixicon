@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "lit",
+    "remixicon",
+    "lit icons",
+    "icons",
+    "lit-remixicon",
+    "icon",
+    "web components"
+  ],
   "author": "Cengiz Gonen",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/cetico/lit-remixicon"
 }
