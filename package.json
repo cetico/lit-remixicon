@@ -1,6 +1,6 @@
 {
   "name": "lit-remixicon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Remixicon SVG icons with wrapper for Lit",
   "main": "index.js",
   "scripts": {
